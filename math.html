@@ -1,0 +1,23 @@
+---
+layout: math
+title: math:work
+permalink: /math/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.categories.math %}
+      <li>
+        <h2>
+          <span class="post-header">{{ post.title }}</span>
+        </h2>
+
+        <span class="post-content">{{ post.content }}</span>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
+

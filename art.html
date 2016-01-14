@@ -1,0 +1,29 @@
+---
+layout: art
+title: art:work
+permalink: /art/
+---
+
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for gallery in site.data.galleries %}
+      <h2>{{ gallery.name }}: {{ gallery.datestart }} {% if gallery.dateend %} - {{ gallery.dateend }} {% endif %}</h2>
+      {{ gallery.description }}
+
+      <ul class="art-gallery">
+      {% for item in gallery.work %}
+        <li>
+          <a href="work/{{ gallery.label }}/{{ item.filename}}.jpg" data-lightbox="{{ gallery.label }}" data-title="{{ item.name }}. {{ item.materials }}{% if item.dimensions %}, {{ item.dimensions }}{% endif %}.">
+            <img src="work/{{ gallery.label }}/{{ item.filename}}-t.jpg">
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+
+    {% endfor %}
+  </ul>
+
+</div>
+

@@ -1,0 +1,70 @@
+
+
+/**
+ * Menu item stuff
+ */
+.main-menu {
+
+    margin: 0 auto;
+    padding-bottom: 2em;
+
+    li {
+        display: inline;
+        margin-right: 1em;
+
+        .current-menu-item {
+            font-weight: 600;
+            font-size: 101%;
+        }
+    }
+
+}
+
+
+/**
+ * Post stuff
+ */
+.post-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-img-caption {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+
+/**
+ * Gallery stuff
+ */
+.art-gallery {
+
+    // text-align: center;
+
+    // li {
+    //     display: inline-block;
+    //     padding: 1em;
+    // }
+
+    li {
+        width: 200px;
+        padding: 1em;
+        text-align: center;
+        list-style-type: none;
+    }
+
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+
+    img {
+        max-width: 200px;
+        max-height: 200px;
+    }
+
+}
+
+

@@ -1,0 +1,171 @@
+
+
+- name: National Geographic Collages
+  label: nat-geo-collage
+  datestart: 2014
+  dateend: current
+  description: Collage art made from vintage National Geographic magazines from the 60s and 70s.
+  work:
+  - name: Collage No. 1
+    materials: Paper collage
+    filename: collage1
+  - name: Collage No. 2
+    materials: Paper collage
+    filename: collage2
+  - name: Collage No. 3
+    materials: Paper collage
+    filename: collage3
+  - name: Collage No. 4
+    materials: Paper collage
+    filename: collage4
+  - name: Collage No. 5
+    materials: Paper collage
+    filename: collage5
+  - name: Collage No. 6
+    materials: Paper collage
+    filename: collage6
+    
+
+- name: Our Shared Past
+  label: our-shared-past
+  datestart: 2013
+  description: >
+    My entry for the <a href="http://oursharedpast.tumblr.com/">Our Shared Past</a> show 
+    at the Cummer Museum, Jacksonville, FL.
+  work:
+  - name: "My Coming of Age: Boys"
+    dimensions: 20'' x 32''
+    materials: Acrlic and latex on canvas
+    filename: boys
+
+
+- name: Digital Protesters
+  label: digital-protesters
+  datestart: 2011
+  dateend: 2012
+  description: >
+    A series of works made for a studio art class while at University of North Florida. Done
+    under the instruction of <a href="http://www.jasonjohnart.com/">Jason John</a>. Original
+    imagery from found footage of the Occupy Wall Street protests.
+  work:
+  - name: Digital Protesters No. 1
+    dimensions: 22'' x 22''
+    materials: Oil on panel
+    filename: dp1
+  - name: Digital Protesters No. 2
+    dimensions: 22'' x 22''
+    materials: Oil on panel
+    filename: dp2
+  - name: Digital Protesters No. 3
+    dimensions: 1800 px x 900 px
+    materials: Digital image
+    filename: dp3
+
+- name: Plein Air
+  label: plein-air
+  datestart: 2009
+  dateend: ongoing
+  description: >
+    Plein air paintings made in the places I've lived and visited.
+  work:
+  - name: The Paxton Farm
+    location: "Catskills, New York"
+    dimensions: 11'' x 14''
+    materials: Acrylic on canvas
+    filename: paxton-farm
+  - name: Mom's Park
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: moms-park
+  - name: FSCJ Kent Campus
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: fscj
+  - name: Jacksonville Landing
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: jax-landing
+  - name: On St. Johns Ave
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: st-johns
+  - name: Neptune Beach by moonlight
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: neptune-beach
+  - name: San Marco from Memorial Park
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: san-marco-memorial-park
+  - name: Ortega Park at dusk in the rain
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: ortega-park
+  - name: Huguenot Memorial Park
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: huguenot-park
+  - name: "Camelia, Cummer Museum of Art and Gardens"
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: camelia
+  - name: Boats on the St. Johns
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: boats-st-johns
+  - name: View from The Loop
+    location: "Jacksonville, FL"
+    dimensions: 5'' x 7''
+    materials: Acrylic on canvas
+    filename: loop
+
+
+
+- name: Misc paintings
+  label: misc-paintings
+  datestart: 2009
+  dateend: 2011
+  description: >
+    A collection of paintings made between 2009 and 2011. 
+  work:
+    - name: Anton
+      dimensions: 12'' x 16''
+      materials: Oil and acrylic on canvas
+      filename: anton
+    - name: Coke bottle and a conch shell
+      dimensions: 11'' x 14''
+      materials: Oil on canvas
+      filename: coke
+    - name: Study for Francis Bacon Self Portrait
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: francis-bacon
+    - name: Sunday Sketch at FSCJ
+      dimensions: 5'' x 7''
+      materials: Acrylic on canvas
+      filename: sunday-sketch
+    - name: Urban Scrub
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: urban-scrub
+    - name: Empty Nesters
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: empty-nesters
+    - name: Redstart
+      dimensions: 8'' x 10''
+      materials: Acrylic on canvas
+      filename: redstart
+
+
+
