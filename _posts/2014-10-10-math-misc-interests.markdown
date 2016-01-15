@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miscellaneous Mathematical Interests"
-date:   2015-12-10 11:30:02 -0500
+date:   2014-10-10 11:30:02 -0500
 categories: math
 ---
 

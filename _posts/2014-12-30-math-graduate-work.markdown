@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graduate Work"
-date:   2015-12-30 11:30:02 -0500
+date:   2014-12-30 11:30:02 -0500
 categories: math
 ---
 
