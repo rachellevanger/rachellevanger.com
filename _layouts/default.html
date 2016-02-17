@@ -14,7 +14,7 @@
 
         <ul class="main-menu">
           <li>
-            {% if page.url == "/index.html" %}<span class="current-menu-item">WRITING</span>
+            {% if page.url == "/" %}<span class="current-menu-item">WRITING</span>
             {% else %}<a href="/">WRITING</a>
             {% endif %}
           </li>
@@ -34,7 +34,7 @@
         {{ content }}
       </div>
     </div>
-    {{ page.url }}
+    
     {% include footer.html %}
 
   </body>
