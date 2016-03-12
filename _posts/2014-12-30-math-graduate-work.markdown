@@ -5,7 +5,7 @@ date:   2014-12-30 11:30:02 -0500
 categories: math
 ---
 
-I am a fourth year PhD student in the <a href="http://http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a>. My research interests are topological data analysis (TDA) and probability. I am currently studying applications of TDA to patterns in fluid dynamics, where our general technique is to map the fluid dynamics into the space of persistence diagrams and study the dynamics in this space.
+I am a fourth year PhD student in the <a href="http://http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a>. My research interests lie in the intersection of topological data analysis (TDA) and machine learning. More specifically, I study persistent homology and its applications to time series of 2D and 3D images.
 
 In August 2015 I spoke at the <a href="http://rybu.org/appliedtopmeeting" target="_blank">Applied Topology and High-Dimensional Data Analysis</a> meeting in Victoria, BC. The slides for my talks can be found here:
 
