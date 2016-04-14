@@ -8,4 +8,3 @@ I like to collect images and quotes that are math and/or art related on [Math:in
 
 I maintain the [@MathArtNYC](https://twitter.com/MathArtNYC) Twitter account, so you can see what’s going on around the city that’s falls in the intersection of math and art.
 
-Major Tom to ground control....
