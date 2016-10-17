@@ -5,7 +5,7 @@ date:   2014-12-30 11:30:02 -0500
 categories: math
 ---
 
-I am a fifth year PhD student in the <a href="http://http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a> on both theoretical and applied aspects of persistent homology. 
+I am a fifth year PhD student in the <a href="http://http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a> on both theoretical and applied aspects of persistent homology. Please download my [cv](cv.pdf) and [research statement](research_statement.pdf).
 
 **Identifying defects in 2D experimental and simulated convection flows**
 
@@ -31,7 +31,7 @@ This is my primary theoretical result. Using the induced matchin theorem and the
 
 
 <br />
-**Publications**
+**Publications and other work**
 
-Here are <a href="http://arxiv.org/find/math/1/au:+Levanger_R/0/1/0/all/0/1">some papers on arXiv.org</a> that I had a part in writing.
+Here are <a href="http://arxiv.org/find/math/1/au:+Levanger_R/0/1/0/all/0/1">some papers on arXiv.org</a> that I had a part in writing. I maintain my [active projects on github](http://github.com/rachellevanger).
 
