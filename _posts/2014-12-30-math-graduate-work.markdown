@@ -7,9 +7,20 @@ categories: math
 
 I am a fifth year PhD student in the <a href="http://http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a> on both theoretical and applied aspects of persistent homology. Please download my [cv](cv.pdf) and [research statement](research_statement.pdf).
 
+**Interactive visualization tool for the persistence diagrams of digital images**
+
+Ever wonder how the points in your persistence diagram correspond to the features in the digital images you're processing? You can now download the [tda-d3-explorer](https://github.com/rachellevanger/tda-d3-explorer) app from GitHub and explore your data! Based on the persistence computations from PHAT, this software enables you to encircle the persistence points of interest, and will then display the corresponding critical cell pairings overlaid on your image, as the screen shot below shows. It also includes a reverse search feature, so that you can select regions of interest on the image which will then highlight any persistence points with critical cells from their underlying pairings which fall inside the region.
+
+<center>
+<img src="../images/tda-d3-explorer.png" />
+</center>
+
+The tool is also great for studying time series of persistence diagrams generated from digital images. The software includes an installation script that will locally install a copy of PHAT and all other required dependencies, and also includes a Jupyter notebook that will get you started on some test data. 
+
+
 **Identifying defects in 2D experimental and simulated convection flows**
 
-My latest project uses ideas from discrete morse theory and persistent homology to identify defect patterns in Rayleigh-Bénard convection. The following video was made from simulated data from the [Paul Research Group](http://www.me.vt.edu/mpaul/) at Virginia Tech (experimental data taken at the [Mike Schatz laboratory](http://www.schatzlab.gatech.edu/)). Highlighted regions in the persistence diagrams indicate parameters for simple pattern-matching algorithms based on the output of an [application](https://github.com/rachellevanger/image-tda-rayleigh-benard-convection) I'm working on.
+One of my latest projects uses ideas from discrete morse theory and persistent homology to identify defect patterns in Rayleigh-Bénard convection. The following video was made from simulated data from the [Paul Research Group](http://www.me.vt.edu/mpaul/) at Virginia Tech (experimental data taken at the [Mike Schatz laboratory](http://www.schatzlab.gatech.edu/)). Highlighted regions in the persistence diagrams indicate parameters for simple pattern-matching algorithms based on the output of an [application](https://github.com/rachellevanger/image-tda-rayleigh-benard-convection) I'm working on.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NC5NRmGlYzA" frameborder="0" allowfullscreen></iframe>
