@@ -5,7 +5,7 @@ date:   2014-12-30 11:30:02 -0500
 categories: math
 ---
 
-I am a fifth year PhD student in the <a href="http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a> on both theoretical and applied aspects of persistent homology. Please download my [cv](cv.pdf) and [research statement](research_statement.pdf). Here are descriptions of some of my current and recent projects:
+I am a fifth year PhD student in the <a href="http://math.rutgers.edu/" target="_blank">mathematics department at Rutgers University</a>, where I work under the direction of <a href="http://math.rutgers.edu/~mischaik/" target="_blank">Dr. Konstantin Mischaikow</a> on both theoretical and applied aspects of persistent homology. Please download my [cv](cv.pdf) and [research statement](research_statement.pdf). Here are descriptions of some of my recent projects:
 
 **Interactive visualization tool for the persistence diagrams of digital images**
 
