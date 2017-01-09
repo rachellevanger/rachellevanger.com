@@ -9,7 +9,7 @@ I am a fifth year PhD student in the <a href="http://math.rutgers.edu/" target="
 
 **Interactive visualization tool for the persistence diagrams of digital images**
 
-Ever wonder how the points in your persistence diagram correspond to the features in the digital images you're processing? Download the [tda-d3-explorer](https://github.com/rachellevanger/tda-d3-explorer) app from GitHub and explore your data! Based on the persistence computations from [PHAT](https://github.com/blazs/phat) that utilize discrete Morse theory, this software enables you to encircle persistence points of interest and will then display the corresponding critical cell pairings overlaid on your image, as the screen shot below shows. It also includes a reverse search feature: select a region of interest on the image and the tool will highlight any persistence points with critical cells from their underlying pairings that fall inside.
+Ever wonder how the points in your persistence diagram correspond to the features in the digital images you're processing? Download the [tda-persistence-explorer](https://github.com/rachellevanger/tda-persistence-explorer) app from GitHub and explore your data! Based on the persistence computations from [PHAT](https://github.com/blazs/phat) that utilize discrete Morse theory, this software enables you to encircle persistence points of interest and will then display the corresponding critical cell pairings overlaid on your image, as the screen shot below shows. It also includes a reverse search feature: select a region of interest on the image and the tool will highlight any persistence points with critical cells from their underlying pairings that fall inside.
 
 <center>
 <img src="../images/tda-d3-explorer.png" />
