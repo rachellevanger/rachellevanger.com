@@ -14,15 +14,15 @@
 
         <ul class="main-menu">
           <li>
-            {% if page.url == "/" %}<span class="current-menu-item">WRITING</span>
-            {% else %}<a href="/">WRITING</a>
-            {% endif %}
-          </li>
-          <li>
             <a href="math/">MATH</a>
           </li>
           <li>
             <a href="art/">ART</a>
+          </li>
+          <li>
+            {% if page.url == "/writing.html" %}<span class="current-menu-item">WRITING</span>
+            {% else %}<a href="writing.html">WRITING</a>
+            {% endif %}
           </li>
           <li>
             {% if page.url == "/other.html" %}<span class="current-menu-item">OTHER</span>

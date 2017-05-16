@@ -3,7 +3,7 @@
 - name: National Geographic Collages
   label: nat-geo-collage
   datestart: 2014
-  dateend: current
+  dateend: 2015
   description: Collage art made from vintage National Geographic magazines from the 60s and 70s.
   work:
   - name: Collage No. 1
@@ -64,7 +64,7 @@
 - name: Plein Air
   label: plein-air
   datestart: 2009
-  dateend: ongoing
+  dateend: 2013
   description: >
     Plein air paintings made in the places I've lived and visited.
   work:
@@ -131,41 +131,41 @@
 
 
 
-# - name: Misc paintings
-#   label: misc-paintings
-#   datestart: 2009
-#   dateend: 2011
-#   description: >
-#     A collection of paintings made between 2009 and 2011. 
-#   work:
-#     - name: Anton
-#       dimensions: 12'' x 16''
-#       materials: Oil and acrylic on canvas
-#       filename: anton
-#     - name: Coke bottle and a conch shell
-#       dimensions: 11'' x 14''
-#       materials: Oil on canvas
-#       filename: coke
-#     - name: Study for Francis Bacon Self Portrait
-#       dimensions: 16'' x 20''
-#       materials: Acrylic on canvas
-#       filename: francis-bacon
-#     - name: Sunday Sketch at FSCJ
-#       dimensions: 5'' x 7''
-#       materials: Acrylic on canvas
-#       filename: sunday-sketch
-#     - name: Urban Scrub
-#       dimensions: 16'' x 20''
-#       materials: Acrylic on canvas
-#       filename: urban-scrub
-#     - name: Empty Nesters
-#       dimensions: 16'' x 20''
-#       materials: Acrylic on canvas
-#       filename: empty-nesters
-#     - name: Redstart
-#       dimensions: 8'' x 10''
-#       materials: Acrylic on canvas
-#       filename: redstart
+- name: Misc paintings
+  label: misc-paintings
+  datestart: 2009
+  dateend: 2011
+  description: >
+    A collection of paintings made between 2009 and 2011. 
+  work:
+    - name: Anton
+      dimensions: 12'' x 16''
+      materials: Oil and acrylic on canvas
+      filename: anton
+    - name: Coke bottle and a conch shell
+      dimensions: 11'' x 14''
+      materials: Oil on canvas
+      filename: coke
+    - name: Study for Francis Bacon Self Portrait
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: francis-bacon
+    - name: Sunday Sketch at FSCJ
+      dimensions: 5'' x 7''
+      materials: Acrylic on canvas
+      filename: sunday-sketch
+    - name: Urban Scrub
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: urban-scrub
+    - name: Empty Nesters
+      dimensions: 16'' x 20''
+      materials: Acrylic on canvas
+      filename: empty-nesters
+    - name: Redstart
+      dimensions: 8'' x 10''
+      materials: Acrylic on canvas
+      filename: redstart
 
 
 

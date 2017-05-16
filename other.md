@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other
+title: other
 permalink: other.html
 ---
 

@@ -4,24 +4,5 @@ layout: default
 
 <div class="home">
 
-  <p style="padding-bottom: 1em">The following are writings about my experiences and reflections on mathematical art exhibits in the NYC area. So far I've only managed to add a piece once every two years or so, but I'm working on changing that.</p>
-
-  <ul class="post-list">
-    {% for post in site.categories.writing %}
-      <li>
-        <h2>
-          <span class="post-header">{{ post.title }}</span>
-        </h2>
-
-        <span class="post-content">{{ post.content }}</span>
-
-        <span class="post-meta">posted  {{ post.date | date: "%b %-d, %Y" }}</span>
-
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
 
