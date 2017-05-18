@@ -258,7 +258,17 @@
 }
 
 //.col{margin:0 10px; display:inline-block;}
-.col-image{margin-top:1em;margin-right:2em;margin-bottom:2em;}
+.col-image{
+    margin-top:1em;
+    margin-right:2em;
+    margin-bottom:2em;
+
+    @include media-query($on-palm) {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}
 .col-body{}
 .mypic{border-radius:1000px; max-width:none;}
 
