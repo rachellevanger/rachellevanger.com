@@ -7,12 +7,15 @@
 
     {% include header.html %}
 
-
-
     <div class="page-content">
       <div class="wrapper">
 
         <ul class="main-menu">
+          <li>
+            {% if page.url == "/" %}<span class="current-menu-item">ABOUT</span>
+            {% else %}<a href="/">ABOUT</a>
+            {% endif %}
+          </li>
           <li>
             <a href="math/">MATH</a>
           </li>
