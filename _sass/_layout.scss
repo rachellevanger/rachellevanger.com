@@ -246,9 +246,21 @@
  * About page
  */
 
-.col-wrapper{width:900px; margin:0 auto;} // display:flex; flex-direction: row;}
-.col{margin:0 10px; float:left; display:inline-block;}
-.col-body{width:660px;}
-.col-image{width:175px; margin-top:5px;}
-.mypic{border-radius:1000px;}
+.col-wrapper{
+    margin:0 auto; 
+    display:flex; 
+    flex-direction: row;
+
+    @include media-query($on-palm) {
+        flex-wrap: wrap;
+    }
+
+}
+
+//.col{margin:0 10px; display:inline-block;}
+.col-image{margin-top:1em;margin-right:2em;margin-bottom:2em;}
+.col-body{}
+.mypic{border-radius:1000px; max-width:none;}
+
+
 
