@@ -5,7 +5,20 @@ date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
 
-While a graduate student at <a href="http://www.math.rutgers.edu/">Rutgers University</a>, I focused on applications of persistent homology to problems in fluid dynamics. To hear more details about each of the following projects, please see [this talk](https://www.youtube.com/watch?v=cx1l65kOtrg) I gave at the [Workshop on Topology : Identifying Order in Complex Systems](https://www.math.ias.edu/calendar/event/136248/1523127600/1523131200) seminar at the [IAS](https://www.math.ias.edu/).
+While a graduate student at <a href="http://www.math.rutgers.edu/">Rutgers University</a>, I focused on applications of persistent homology to problems in fluid dynamics, spanning both 2D and 3D fluid flow simulations. 
+
+<div class="math-row">
+
+
+	<img class="math-thumb" src="../images/math-ias-talk.png" />
+
+	<b>Talk : Studying Fluid Flows with Persistent Homology</b>
+	<p style="margin-bottom:1em;">Workshop on Topology : Identifying Order in Complex Systems</p>
+
+	<a href="https://www.ias.edu/events/workshop-topology-identifying-order-complex-systems-122">abstract</a> | <a href="https://video.ias.edu/TopologyWS/2018/0407-RachelLevanger">video</a>
+
+
+</div>
 
 <div class="math-row">
 
