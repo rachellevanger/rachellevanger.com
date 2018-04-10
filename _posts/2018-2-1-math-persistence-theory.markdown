@@ -5,7 +5,7 @@ date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
 
-Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical and Systems Engineering</a> at <a href="http://www.upenn.edu/">University of Pennsylvania</a>, I have turned my focus toward theoretical work in persistent homology.
+Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical and Systems Engineering</a> at <a href="http://www.upenn.edu/">UPenn</a>, I have turned my focus toward theoretical work in persistent homology.
 
 <div class="math-row">
 
