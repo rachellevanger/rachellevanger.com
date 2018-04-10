@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Applications of Persistent Homology to Fluid Flows"
+title:  "Applications of Persistent Homology to Problems in Fluid Dynamics"
 date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
