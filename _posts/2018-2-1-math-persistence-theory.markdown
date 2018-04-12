@@ -10,6 +10,18 @@ Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical 
 <div class="math-row">
 
 
+	<img class="math-thumb" src="../images/math-euler-integral-transform.png" />
+
+	<b>Persistent Homology and Euler Integral Transforms</b>
+	<p style="margin-bottom:1em;">with R. Ghrist and H. Mai.</p>
+
+	<i>In preparation.</i>
+
+</div>
+
+<div class="math-row">
+
+
 	<img class="math-thumb" src="../images/math-decorated-merge-tree.png" />
 
 	<b>On the Stability of Persistence Vineyards</b>
