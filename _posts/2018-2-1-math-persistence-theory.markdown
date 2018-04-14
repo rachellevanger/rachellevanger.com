@@ -15,7 +15,7 @@ Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical 
 	<b>Persistent Homology and Euler Integral Transforms</b>
 	<p style="margin-bottom:1em;">with R. Ghrist and H. Mai.</p>
 
-	<i>In preparation.</i>
+	<i>Submitted.</i>
 
 </div>
 
@@ -40,7 +40,7 @@ Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical 
 	<b>A Comparison Framework for Interleaved Persistence Modules</b>
 	<p style="margin-bottom:1em;">with S. Harker, M. Kramar, and K. Mischaikow.</p>
 
-	<a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a>
+	<a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a> | Submitted.
 
 
 </div>
