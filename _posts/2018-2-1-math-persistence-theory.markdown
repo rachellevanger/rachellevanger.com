@@ -15,7 +15,7 @@ Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical 
 	<b>Persistent Homology and Euler Integral Transforms</b>
 	<p style="margin-bottom:1em;">with R. Ghrist and H. Mai.</p>
 
-	<i>Submitted.</i>
+	<a href="https://arxiv.org/abs/1804.04740">arXiv</a> | <i>Submitted.</i>
 
 </div>
 
