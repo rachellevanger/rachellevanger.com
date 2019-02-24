@@ -5,19 +5,7 @@ date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
 
-Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical and Systems Engineering</a> at <a href="http://www.upenn.edu/">UPenn</a>, I have turned my focus toward theoretical work in persistent homology.
-
-<div class="math-row">
-
-
-	<img class="math-thumb" src="../images/math-euler-integral-transform.png" />
-
-	<b>Persistent Homology and Euler Integral Transforms</b>
-	<p style="margin-bottom:1em;">with R. Ghrist and H. Mai.</p>
-
-	<a href="https://arxiv.org/abs/1804.04740">arXiv</a> | <i>Submitted.</i>
-
-</div>
+My postgraduate work has continued in the direction of theoretical work in persistent homology and topological data analysis.
 
 <div class="math-row">
 
@@ -29,6 +17,18 @@ Since joining the <a href="https://www.ese.upenn.edu/">Department of Electrical 
 
 	<i>In preparation.</i>
 
+
+</div>
+
+<div class="math-row">
+
+
+	<img class="math-thumb" src="../images/math-euler-integral-transform.png" />
+
+	<b>Persistent Homology and Euler Integral Transforms</b>
+	<p style="margin-bottom:1em;">with R. Ghrist and H. Mai.</p>
+
+	<a href="https://link.springer.com/article/10.1007/s41468-018-0017-1">JACT</a> | <a href="https://arxiv.org/abs/1804.04740">arXiv</a>
 
 </div>
 

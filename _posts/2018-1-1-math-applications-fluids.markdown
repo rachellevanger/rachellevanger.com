@@ -54,7 +54,7 @@ While a graduate student at <a href="http://www.math.rutgers.edu/">Rutgers Unive
 	<b>Connecting Lyapunov Vectors with the Pattern Dynamics of Chaotic Rayleigh-Bénard Convection </b>
 	<p style="margin-bottom:1em;">with M. Xu, J. Cyranka, M. Schatz, K. Mischaikow, M. R. Paul.</p>
 
-	<i>In preparation.</i>
+	<a href="https://arxiv.org/abs/1810.09384">arXiv</a> | <i>Submitted.</i>
 
 
 </div>
