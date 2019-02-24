@@ -61,111 +61,111 @@
     materials: Digital image
     filename: dp3
 
-- name: Plein Air
-  label: plein-air
-  datestart: 2009
-  dateend: 2013
-  description: >
-    Plein air paintings made in the places I've lived and visited.
-  work:
-  - name: The Paxton Farm
-    location: "Catskills, New York"
-    dimensions: 11'' x 14''
-    materials: Acrylic on canvas
-    filename: paxton-farm
-  - name: Mom's Park
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: moms-park
-  - name: FSCJ Kent Campus
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: fscj
-  - name: Jacksonville Landing
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: jax-landing
-  - name: On St. Johns Ave
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: st-johns
-  - name: Neptune Beach by moonlight
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: neptune-beach
-  - name: San Marco from Memorial Park
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: san-marco-memorial-park
-  - name: Ortega Park at dusk in the rain
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: ortega-park
-  - name: Huguenot Memorial Park
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: huguenot-park
-  - name: "Camelia, Cummer Museum of Art and Gardens"
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: camelia
-  - name: Boats on the St. Johns
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: boats-st-johns
-  - name: View from The Loop
-    location: "Jacksonville, FL"
-    dimensions: 5'' x 7''
-    materials: Acrylic on canvas
-    filename: loop
+# - name: Plein Air
+#   label: plein-air
+#   datestart: 2009
+#   dateend: 2013
+#   description: >
+#     Plein air paintings made in the places I've lived and visited.
+#   work:
+#   - name: The Paxton Farm
+#     location: "Catskills, New York"
+#     dimensions: 11'' x 14''
+#     materials: Acrylic on canvas
+#     filename: paxton-farm
+#   - name: Mom's Park
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: moms-park
+#   - name: FSCJ Kent Campus
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: fscj
+#   - name: Jacksonville Landing
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: jax-landing
+#   - name: On St. Johns Ave
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: st-johns
+#   - name: Neptune Beach by moonlight
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: neptune-beach
+#   - name: San Marco from Memorial Park
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: san-marco-memorial-park
+#   - name: Ortega Park at dusk in the rain
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: ortega-park
+#   - name: Huguenot Memorial Park
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: huguenot-park
+#   - name: "Camelia, Cummer Museum of Art and Gardens"
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: camelia
+#   - name: Boats on the St. Johns
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: boats-st-johns
+#   - name: View from The Loop
+#     location: "Jacksonville, FL"
+#     dimensions: 5'' x 7''
+#     materials: Acrylic on canvas
+#     filename: loop
 
 
 
-- name: Misc paintings
-  label: misc-paintings
-  datestart: 2009
-  dateend: 2011
-  description: >
-    A collection of paintings made between 2009 and 2011. 
-  work:
-    - name: Anton
-      dimensions: 12'' x 16''
-      materials: Oil and acrylic on canvas
-      filename: anton
-    - name: Coke bottle and a conch shell
-      dimensions: 11'' x 14''
-      materials: Oil on canvas
-      filename: coke
-    - name: Study for Francis Bacon Self Portrait
-      dimensions: 16'' x 20''
-      materials: Acrylic on canvas
-      filename: francis-bacon
-    - name: Sunday Sketch at FSCJ
-      dimensions: 5'' x 7''
-      materials: Acrylic on canvas
-      filename: sunday-sketch
-    - name: Urban Scrub
-      dimensions: 16'' x 20''
-      materials: Acrylic on canvas
-      filename: urban-scrub
-    - name: Empty Nesters
-      dimensions: 16'' x 20''
-      materials: Acrylic on canvas
-      filename: empty-nesters
-    - name: Redstart
-      dimensions: 8'' x 10''
-      materials: Acrylic on canvas
-      filename: redstart
+# - name: Misc paintings
+#   label: misc-paintings
+#   datestart: 2009
+#   dateend: 2011
+#   description: >
+#     A collection of paintings made between 2009 and 2011. 
+#   work:
+#     - name: Anton
+#       dimensions: 12'' x 16''
+#       materials: Oil and acrylic on canvas
+#       filename: anton
+#     - name: Coke bottle and a conch shell
+#       dimensions: 11'' x 14''
+#       materials: Oil on canvas
+#       filename: coke
+#     - name: Study for Francis Bacon Self Portrait
+#       dimensions: 16'' x 20''
+#       materials: Acrylic on canvas
+#       filename: francis-bacon
+#     - name: Sunday Sketch at FSCJ
+#       dimensions: 5'' x 7''
+#       materials: Acrylic on canvas
+#       filename: sunday-sketch
+#     - name: Urban Scrub
+#       dimensions: 16'' x 20''
+#       materials: Acrylic on canvas
+#       filename: urban-scrub
+#     - name: Empty Nesters
+#       dimensions: 16'' x 20''
+#       materials: Acrylic on canvas
+#       filename: empty-nesters
+#     - name: Redstart
+#       dimensions: 8'' x 10''
+#       materials: Acrylic on canvas
+#       filename: redstart
 
 
 
