@@ -40,7 +40,7 @@ My postgraduate work has continued in the direction of theoretical work in persi
 	<b>A Comparison Framework for Interleaved Persistence Modules</b>
 	<p style="margin-bottom:1em;">with S. Harker, M. Kramar, and K. Mischaikow.</p>
 
-	<a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a> | <i>Submitted.</i>
+	<a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a> | <i>To appear in JACT.</i>
 
 
 </div>
