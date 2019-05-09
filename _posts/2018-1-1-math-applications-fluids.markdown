@@ -51,10 +51,10 @@ While a graduate student at <a href="http://www.math.rutgers.edu/">Rutgers Unive
 
 	<img class="math-thumb" src="../images/math-patterns.png" />
 
-	<b>Connecting Lyapunov Vectors with the Pattern Dynamics of Chaotic Rayleigh-Bénard Convection </b>
+	<b>Correlations between the leading Lyapunov vector and pattern defects for chaotic Rayleigh-Bénard convection</b>
 	<p style="margin-bottom:1em;">with M. Xu, J. Cyranka, M. Schatz, K. Mischaikow, M. R. Paul.</p>
 
-	<a href="https://arxiv.org/abs/1810.09384">arXiv</a> | <i>To appear in Chaos.</i>
+	<a href="https://aip.scitation.org/doi/10.1063/1.5071468">Chaos</a> | <a href="https://arxiv.org/abs/1810.09384">arXiv</a>
 
 
 </div>
