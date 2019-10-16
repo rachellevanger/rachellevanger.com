@@ -212,3 +212,20 @@ pre {
         }
     }
 }
+
+
+/**
+ * Resume stuff
+ */
+tr.resume-row>td {
+    padding-bottom: 1em;
+}
+td.resume-date {
+    vertical-align: top;
+    padding-right: 1em;
+}
+td.resume-body {
+    vertical-align: top;
+}
+
+
