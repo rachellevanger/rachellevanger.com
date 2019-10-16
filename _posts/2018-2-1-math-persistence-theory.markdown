@@ -40,7 +40,7 @@ My postgraduate was primarily focued on theoretical work in persistent homology 
 	<b>A Comparison Framework for Interleaved Persistence Modules</b>
 	<p style="margin-bottom:1em;">with S. Harker, M. Kramar, and K. Mischaikow.</p>
 
-	<a href=https://link.springer.com/article/10.1007/s41468-019-00026-x">JACT</a> | <a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a>
+	<a href="https://link.springer.com/article/10.1007/s41468-019-00026-x">JACT</a> | <a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a>
 
 
 </div>
