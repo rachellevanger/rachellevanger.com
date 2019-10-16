@@ -46,9 +46,6 @@
 /**
  * Math stuff
  */
- 
-
-
 .math-row:after {
     content: "";
     display: table;
@@ -87,4 +84,19 @@
 
 }
 
+
+
+/**
+ * Resume stuff
+ */
+.resume-row>td {
+    padding-bottom: 1em;
+}
+.resume-date {
+    vertical-align: top;
+    padding-right: 1em;
+}
+.resume-body {
+    vertical-align: top;
+}
 
