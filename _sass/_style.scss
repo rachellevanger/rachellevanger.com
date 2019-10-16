@@ -89,14 +89,14 @@
 /**
  * Resume stuff
  */
-.resume-row>td {
+tr.resume-row>td {
     padding-bottom: 1em;
 }
-.resume-date {
+td.resume-date {
     vertical-align: top;
     padding-right: 1em;
 }
-.resume-body {
+td.resume-body {
     vertical-align: top;
 }
 
