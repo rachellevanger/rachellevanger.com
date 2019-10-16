@@ -5,7 +5,7 @@ date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
 
-My postgraduate work has continued in the direction of theoretical work in persistent homology and topological data analysis.
+My postgraduate was primarily focued on theoretical work in persistent homology and topological data analysis.
 
 <div class="math-row">
 
@@ -40,7 +40,7 @@ My postgraduate work has continued in the direction of theoretical work in persi
 	<b>A Comparison Framework for Interleaved Persistence Modules</b>
 	<p style="margin-bottom:1em;">with S. Harker, M. Kramar, and K. Mischaikow.</p>
 
-	<i>To appear in JACT.</i> | <a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a>
+	<a href=https://link.springer.com/article/10.1007/s41468-019-00026-x">JACT</a> | <a href="https://arxiv.org/abs/1801.06725">arXiv</a> | <a href="https://www.youtube.com/watch?v=kLAj-HM21Ck&feature=youtu.be">AATRN (YouTube)</a>
 
 
 </div>
