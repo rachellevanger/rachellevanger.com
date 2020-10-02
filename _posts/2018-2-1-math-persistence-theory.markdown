@@ -5,7 +5,7 @@ date:   2018-1-1 11:30:02 -0500
 categories: math
 ---
 
-My postgraduate was primarily focued on theoretical work in persistent homology and topological data analysis.
+My postgraduate work primarily focued on theoretical aspects of persistent homology and topological data analysis.
 
 <div class="math-row">
 
